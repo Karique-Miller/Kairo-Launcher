@@ -2,7 +2,7 @@
 
 HOW TO OPEN:
 
-1. Extract both folder to desiered location.
+1. Extract both folders to desiered location.
 2. Open "Launcher".
 3. Open "Kairo Launcher.exe"
 
