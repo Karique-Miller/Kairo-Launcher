@@ -8,7 +8,7 @@ Kairo Launcher is a custom desktop application written in **Python** that lets u
 
 - [Overview](#overview)  
 - [Features](#features)  
-- [Motivation & Learning Goals](#motivation--learning-goals)  
+- [Motivation & Learning Goals](#motivation--goals)  
 - [Technical Details](#technical-details)  
 - [Installation](#installation)   
 - [Future Improvements](#future-improvements)  
