@@ -1,16 +1,72 @@
-# Kairo-Launcher
+# Kairo Launcher
 
-HOW TO OPEN:
+Kairo Launcher is a custom desktop application written in **Python** that lets users manage and launch all their installed games from a single GUI.
 
-1. Extract both folders to desiered location.
-2. Open "Launcher".
-3. Open "Kairo Launcher.exe"
+---
 
+## Table of Contents
 
-INFO
+- [Overview](#overview)  
+- [Features](#features)  
+- [Motivation & Learning Goals](#motivation--learning-goals)  
+- [Technical Details](#technical-details)  
+- [Installation](#installation)  
+- [Usage](#usage)  
+- [Project Structure](#project-structure)  
+- [Challenges & Solutions](#challenges--solutions)  
+- [Future Improvements](#future-improvements)  
+- [Contributing](#contributing)  
+- [License](#license)  
+- [Author](#author)
 
-- There are 4 pre-added games.
-- You can click the plus button in the top left to add your own games, or any .exe file
-- Any games you add will automatically be saved when you close the launcher.
-- The games will automatically be sorted by alphabetical order.
-- The "RESET" button in the top right will close the program and remove any games you added, reseting back to the default state.
+---
+
+## Overview
+
+Kairo Launcher is designed to provide a clean, scrollable graphical user interface for launching games on Windows. Users can add games, remove them, sort and search through their library, and launch any game directly from the app. Game data is saved in a JSON file, allowing persistence between sessions.
+
+---
+
+## Features
+
+- **Add / Remove Games** – Browse for `.exe`, `.lnk`, or shortcut files to add games to the launcher.  
+- **Persistent Storage** – Game paths and metadata are stored in `games.json`.  
+- **Scrollable UI** – A scrollable canvas in the GUI to support a dynamic list of games.  
+- **Search & Sort** – Search bar filters games by name, and buttons are automatically sorted alphabetically.  
+- **Context Menu** – Hovering over a game reveals an options button, allowing you to delete entries and add/change the image of the buttons.  
+- **Launch Games** – Double-click or click a button to launch a gamel. 
+- **Reset Library** – Ability to completely reset the launcher back to default.  
+
+---
+
+## Motivation & Goals
+
+I built Kairo Launcher because I hate swaping between diffrent game launchers or scrolling endlessly on Steam to find a game.
+
+1. Real desktop GUI development (using Tkinter).  
+2. Persistent data handling using JSON.  
+3. Event-driven programming and UI interactivity.  
+4. Process management (launching external applications).  
+5. Clean, modular code architecture and state management.
+
+This project was particularly helpful in preparing for more advanced software engineering projects and tasks.
+---
+
+## Technical Details
+
+- **Language:** Python 3  
+- **GUI Framework:** Tkinter  
+- **Data Storage:** JSON (`games.json`)  
+- **Process Launching:** `subprocess` module  
+- **Platform Support:** Windows (uses `os.startfile`, sets AppUserModelID)  
+- **UI Layout:** Scrollable canvas with dynamic Frame and Button widgets  
+- **Event Handling:** Mouse hover, click, and context menu  
+
+---
+
+## Installation
+
+1. Download the .zip file.
+2. Extract it to your desiered location.
+3. Open the Kairo Launcher folder.
+4. Launch the .exe file.
