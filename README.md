@@ -10,14 +10,9 @@ Kairo Launcher is a custom desktop application written in **Python** that lets u
 - [Features](#features)  
 - [Motivation & Learning Goals](#motivation--learning-goals)  
 - [Technical Details](#technical-details)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [Project Structure](#project-structure)  
-- [Challenges & Solutions](#challenges--solutions)  
+- [Installation](#installation)   
 - [Future Improvements](#future-improvements)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Author](#author)
+
 
 ---
 
@@ -70,3 +65,13 @@ This project was particularly helpful in preparing for more advanced software en
 2. Extract it to your desiered location.
 3. Open the Kairo Launcher folder.
 4. Launch the .exe file.
+
+---
+
+## Future Improvements
+
+
+- Add settings panel (theme, sort order).
+- Implement auto-update: check for self-updates or game path validity.
+- Enhance metadata: store playtime, launch history, etc.
+- Support for other OS (e.g., macOS, Linux) with cross-platform API.
