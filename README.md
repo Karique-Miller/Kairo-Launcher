@@ -75,3 +75,4 @@ This project was particularly helpful in preparing for more advanced software en
 - Implement auto-update: check for self-updates or game path validity.
 - Enhance metadata: store playtime, launch history, etc.
 - Support for other OS (e.g., macOS, Linux) with cross-platform API.
+- Add the ability to rename added button if there is no image.
