@@ -29,7 +29,9 @@ Kairo Launcher is designed to provide a clean, scrollable graphical user interfa
 - **Scrollable UI** – A scrollable canvas in the GUI to support a dynamic list of games.  
 - **Search & Sort** – Search bar filters games by name, and buttons are automatically sorted alphabetically.  
 - **Context Menu** – Hovering over a game reveals an options button, allowing you to delete entries and add/change the image of the buttons.  
-- **Launch Games** – Double-click or click a button to launch a gamel. 
+- **Launch Games** – Double-click or click a button to launch a gamel.
+- **Sort Options** - Sort game list based on prefrence.
+- **Themes** - Change the UI by selecting from a pre-made theme.
 - **Reset Library** – Ability to completely reset the launcher back to default.  
 
 ---
@@ -71,8 +73,4 @@ This project was particularly helpful in preparing for more advanced software en
 ## Future Improvements
 
 
-- Add settings panel (theme, sort order).
-- Implement auto-update: check for self-updates or game path validity.
-- Enhance metadata: store playtime, launch history, etc.
-- Support for other OS (e.g., macOS, Linux) with cross-platform API.
-- Add the ability to rename added button if there is no image.
+- Currently no planned updates (subject to change)
