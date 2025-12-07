@@ -73,4 +73,4 @@ This project was particularly helpful in preparing for more advanced software en
 ## Future Improvements
 
 
-- Currently no planned updates (likely to change)
+- Currently no planned updates
