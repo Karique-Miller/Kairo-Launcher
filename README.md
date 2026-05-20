@@ -77,3 +77,4 @@ This project was particularly helpful in preparing for more advanced software en
 - More Sorting options
 - Improved searching
 - Cross-Platform support
+- More image file types supported
