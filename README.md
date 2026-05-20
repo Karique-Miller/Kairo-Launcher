@@ -75,4 +75,5 @@ This project was particularly helpful in preparing for more advanced software en
 
 - Improved image adding system
 - More Sorting options
-- Improved searching 
+- Improved searching
+- Cross-Platform support
