@@ -73,4 +73,6 @@ This project was particularly helpful in preparing for more advanced software en
 ## Future Improvements
 
 
-- Currently no planned updates
+- Improved image adding system
+- More Sorting options
+- Improved searching 
