@@ -55,7 +55,7 @@ Kairo Launcher is designed to provide a clean, scrollable graphical user interfa
 
 - **Reset Library** – Ability to completely reset the launcher back to default.
 
-<img width="302" height="332" alt="Kairo_Launcher_Reset_libary" src="https://github.com/user-attachments/assets/61d51c87-88ff-474c-b133-fe80c8b4ad69" />
+  <img width="302" height="332" alt="Kairo_Launcher_Reset_libary" src="https://github.com/user-attachments/assets/61d51c87-88ff-474c-b133-fe80c8b4ad69" />
 
 
 ---
