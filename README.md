@@ -30,7 +30,7 @@ Kairo Launcher is designed to provide a clean, scrollable graphical user interfa
   <img width="618" height="365" alt="Kairo_Launcher_Persistant Storage" src="https://github.com/user-attachments/assets/3711457b-e314-43a3-b719-9644dafbf453" />
  
 - **Scrollable UI** – A scrollable canvas in the GUI to support a dynamic list of games.
-- 
+  
   <img width="302" height="332" alt="Kairo_Launcher_Scrollabe_UI" src="https://github.com/user-attachments/assets/d884cdb2-f1af-4e94-b8f9-8df243fcb0d2" />
  
 - **Search** – Search bar filters games by name.
