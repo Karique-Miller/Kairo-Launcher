@@ -24,15 +24,39 @@ Kairo Launcher is designed to provide a clean, scrollable graphical user interfa
 
 ## Features
 
-- **Add / Remove Games** – Browse for `.exe`, `.lnk`, or shortcut files to add games to the launcher.  
-- **Persistent Storage** – Game paths and metadata are stored in `games.json`.  
-- **Scrollable UI** – A scrollable canvas in the GUI to support a dynamic list of games.  
-- **Search & Sort** – Search bar filters games by name, and buttons are automatically sorted alphabetically.  
-- **Context Menu** – Hovering over a game reveals an options button, allowing you to delete entries and add/change the image of the buttons.  
+- **Add / Remove Games** – Browse for `.exe`, `.lnk`, or shortcut files to add games to the launcher.
+  <img width="302" height="332" alt="Kairo_Launcher_Add_Remove_Buttons" src="https://github.com/user-attachments/assets/7259c37e-ad97-49c5-ba77-acb4c43d5068" />
+- **Persistent Storage** – Game paths and metadata are stored in `games.json`.
+  <img width="618" height="365" alt="Kairo_Launcher_Persistant Storage" src="https://github.com/user-attachments/assets/3711457b-e314-43a3-b719-9644dafbf453" />
+ 
+- **Scrollable UI** – A scrollable canvas in the GUI to support a dynamic list of games.
+- 
+  <img width="302" height="332" alt="Kairo_Launcher_Scrollabe_UI" src="https://github.com/user-attachments/assets/d884cdb2-f1af-4e94-b8f9-8df243fcb0d2" />
+ 
+- **Search** – Search bar filters games by name.
+  
+   <img width="302" height="332" alt="Kairo_Launcher_Search" src="https://github.com/user-attachments/assets/9182fb1c-4e2a-4bb2-ad7f-0d67a6b09c54" />
+
+- **Context Menu** – Hovering over a game reveals an options button, allowing you to delete entries and add/change the image of the buttons.
+
+  <img width="302" height="332" alt="Kairo_Launcher_Context_menu" src="https://github.com/user-attachments/assets/9e77ccff-f2c2-4e93-b2d5-329260310393" />
+
 - **Launch Games** – Double-click or click a button to launch a gamel.
+
+  <img width="302" height="332" alt="Kairo_Launcher_Launch_games" src="https://github.com/user-attachments/assets/a48c43a7-b184-4379-a14f-1cc598896d95" />
+
 - **Sort Options** - Sort game list based on prefrence.
+
+  <img width="302" height="332" alt="Kairo_Launcher_Sort" src="https://github.com/user-attachments/assets/5bc4cd0f-8339-4095-999b-1261b34cf088" />
+
 - **Themes** - Change the UI by selecting from a pre-made theme.
-- **Reset Library** – Ability to completely reset the launcher back to default.  
+
+  <img width="302" height="332" alt="Kairo_Launcher_themes" src="https://github.com/user-attachments/assets/54f45a47-fa3a-435e-9ecb-6c033992887d" />
+
+- **Reset Library** – Ability to completely reset the launcher back to default.
+
+<img width="302" height="332" alt="Kairo_Launcher_Reset_libary" src="https://github.com/user-attachments/assets/61d51c87-88ff-474c-b133-fe80c8b4ad69" />
+
 
 ---
 
